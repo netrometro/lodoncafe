@@ -3,13 +3,14 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
     <link rel="stylesheet" href="style.css" />
     <title>Lodon Café</title>
   </head>
-  <body class="blue">
+  <body class="indigo darken-4">
     <nav>
-      <div class="nav-wrapper red">
+      <div class="nav-wrapper red accent-4">
         <div class="container">
           <a href="#" class="brand-logo">
             <i class="material-icons">add_alert</i> 
