@@ -1,8 +1,12 @@
-NAV {
-  border: 5px solid white;
-  background-color: teal;
+BODY {
+  background-image: url("images/londoncafe.jpg");
+  background-size: contain;
 }
 
-.brand-log i {
+NAV {
+  border-bottom: 5px solid white;
+}
+
+I {
   font-size: 50px;
 }
