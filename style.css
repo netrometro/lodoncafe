@@ -11,3 +11,15 @@ NAV {
 I {
   font-size: 50px;
 }
+
+.row {
+  display: flex;
+}
+
+.col {
+  flex: 1;
+}
+
+.placa {
+  background-image: url("images/placa.jpg");
+}
