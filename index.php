@@ -18,14 +18,14 @@
           </a>
           <ul id="nav-mobile" class="right hide-on-med-and-down">
             <li><a href="historia.php">História</a></li>
-            <li><a href="menu.php">Components</a></li>
-            <li><a href="sobre.php">JavaScript</a></li>
+            <li><a href="menu.php">Menu</a></li>
+            <li><a href="sobre.php">Sobre</a></li>
           </ul>
         </div>
       </div>
     </nav>
     <div class="container">
-
+        
     </div>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
