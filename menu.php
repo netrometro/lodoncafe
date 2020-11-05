@@ -25,7 +25,28 @@
       </div>
     </nav>
     <div class="container">
+      <div class="row">
+        <div class="col s4">
 
+        </div>
+        <div class="col s8">
+          <h1>Menu</h1>
+<table>
+  <tr>
+    <td>
+      <h4>Café Expresso</h4>
+      <p>Ingredientes: -Café; -Açúcar;</p>
+      <p>R$ 5,00</p>
+    </td>
+    <td>
+      <h4>Cappuccino</h4>
+      <p>Ingredientes: -Café; -Açúcar; -Chocolate; -Bicarbonato de Sódio</p>
+      <p>R$ 7,00</p>
+    </td>
+  </tr>
+</table>
+        </div>
+      </div>
     </div>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
