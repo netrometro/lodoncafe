@@ -1,3 +1,7 @@
+body {
+  color: write;
+}
+
 .bg {
   background-image: url("images/londoncafe.jpg");
   background-size: cover;
@@ -22,6 +26,13 @@ I {
 
 .placa {
   background-image: url("images/placa.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.cafe {
+  background-image: url("images/cafe.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;

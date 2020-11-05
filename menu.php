@@ -12,7 +12,7 @@
     <nav>
       <div class="nav-wrapper red accent-4">
         <div class="container">
-          <a href="#" class="brand-logo">
+          <a href="index.php" class="brand-logo">
             <i class="large material-icons">add_alert</i> 
             London Café
           </a>
