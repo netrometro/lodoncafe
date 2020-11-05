@@ -13,7 +13,7 @@
       <div class="nav-wrapper red accent-4">
         <div class="container">
           <a href="#" class="brand-logo">
-            <i class="material-icons">add_alert</i> 
+            <i class="large material-icons">add_alert</i> 
             Londo Café
           </a>
           <ul id="nav-mobile" class="right hide-on-med-and-down">
@@ -25,7 +25,7 @@
       </div>
     </nav>
     <div class="container">
-        
+
     </div>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
