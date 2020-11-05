@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="style.css" />
     <title>Lodon Café</title>
   </head>
-  <body class="indigo darken-4">
+  <body class="bg indigo darken-4">
     <nav>
       <div class="nav-wrapper red accent-4">
         <div class="container">
