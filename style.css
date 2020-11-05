@@ -1,3 +1,8 @@
 .nav-wrapper {
   border: 5px solid white;
+  background-color: teal;
+}
+
+.brand-log i {
+  font-size: 50px;
 }
