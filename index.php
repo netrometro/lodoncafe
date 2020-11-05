@@ -14,7 +14,7 @@
         <div class="container">
           <a href="#" class="brand-logo">
             <i class="large material-icons">add_alert</i> 
-            Londo Café
+            London Café
           </a>
           <ul id="nav-mobile" class="right hide-on-med-and-down">
             <li><a href="historia.php">História</a></li>
